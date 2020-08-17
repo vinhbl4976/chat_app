@@ -1,0 +1,25 @@
+{
+  "name": "botchat",
+  "version": "1.0.0",
+  "description": "begin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinhbl4976/chat_app.git"
+  },
+  "author": "Vinhbl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinhbl4976/chat_app/issues"
+  },
+  "homepage": "https://github.com/vinhbl4976/chat_app#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "request": "^2.81.0",
+    "socket.io": "^2.0.3"
+  }
+}
